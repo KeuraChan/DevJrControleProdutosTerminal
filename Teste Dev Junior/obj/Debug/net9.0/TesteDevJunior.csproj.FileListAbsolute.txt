@@ -1,0 +1,14 @@
+D:\Trabalho\Projetos\Teste Dev Junior\bin\Debug\net9.0\TesteDevJunior.exe
+D:\Trabalho\Projetos\Teste Dev Junior\bin\Debug\net9.0\TesteDevJunior.deps.json
+D:\Trabalho\Projetos\Teste Dev Junior\bin\Debug\net9.0\TesteDevJunior.runtimeconfig.json
+D:\Trabalho\Projetos\Teste Dev Junior\bin\Debug\net9.0\TesteDevJunior.dll
+D:\Trabalho\Projetos\Teste Dev Junior\bin\Debug\net9.0\TesteDevJunior.pdb
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.AssemblyInfoInputs.cache
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.AssemblyInfo.cs
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.csproj.CoreCompileInputs.cache
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.dll
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\refint\TesteDevJunior.dll
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.pdb
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\TesteDevJunior.genruntimeconfig.cache
+D:\Trabalho\Projetos\Teste Dev Junior\obj\Debug\net9.0\ref\TesteDevJunior.dll
