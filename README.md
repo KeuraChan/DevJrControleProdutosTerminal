@@ -5,7 +5,7 @@ Sistema de Controle de Produtos Terminal
 
 ## 3.1 – Como me senti realizando o teste?
 
-Durante o teste, me senti animado com o desafio — a sensação de fazer algo do zero, descobrir a tecnologia, entender como eu gostaria de resolver e pesquisar formas da linguagem para isso. Planejei um projeto simples de banco de dados, buscando entender melhor o que seria o "banco de dados" que deveria ser gerado. Tentar cumprir os desafios me trouxe uma sensação de dever e completude.
+Durante o teste, me senti animado com o desafio, a sensação de fazer algo do zero, descobrir a tecnologia, entender como eu gostaria de resolver e pesquisar formas da linguagem para isso. Planejei um projeto simples de banco de dados, buscando entender melhor o que seria o "banco de dados" que deveria ser gerado. Tentar cumprir os desafios me trouxe uma sensação de dever e completude. Também é importante mencionar que a forma como fora apresentado o teste me trouxe uma sensação de calma que aliviou a pressão.
 
 ---
 
